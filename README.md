@@ -26,14 +26,14 @@
 
 ## Фрагменты работы
 - Функциональная модель процесса (BPwin / TO-BE)
-[assets/bpwin_to_be_model.png]
+![bpwin](assets/bpwin_to_be_model.png)
 - BPMN-схема взаимодействия участников
-[assets/bpmn_to_be_model.png]
+![bpmn](assets/bpmn_to_be_model.png)
 - ER-диаграмма базы данных
-[assets/er_database_model.png]
+![er](assets/er_database_model.png)
 - Прототипы интерфейсов (главный экран сотрудника и аналитическая панель)
-[assets/ui_main.png]
-[assets/ui_statistic.png]
+![ui_main](assets/ui_main.png)
+![ui_stat](assets/ui_statistic.png)
 
 ## Документация
 [Полная проектная документация (PDF)](assets/ais_cho_property_accounting.pdf)
