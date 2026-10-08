@@ -26,13 +26,21 @@
 
 ## Фрагменты работы
 - Функциональная модель процесса (BPwin / TO-BE)
+
 ![bpwin](assets/bpwin_to_be_model.png)
+
 - BPMN-схема взаимодействия участников
+
 ![bpmn](assets/bpmn_to_be_model.png)
+
 - ER-диаграмма базы данных
+
 ![er](assets/er_database_model.png)
+
 - Прототипы интерфейсов (главный экран сотрудника и аналитическая панель)
+
 ![ui_main](assets/ui_main.png)
+
 ![ui_stat](assets/ui_statistic.png)
 
 ## Документация
